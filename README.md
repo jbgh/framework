@@ -27,6 +27,10 @@
 
 This repository contains Flarum's core code. If you want to set up a forum, visit the [Flarum skeleton repository](https://github.com/flarum/flarum). For support, refer to the [documentation](https://docs.flarum.org/), and ask questions on [Flarum Discuss](https://discuss.flarum.org/) (our community forum) or [Discord server](https://flarum.org/discord/).
 
+You can deploy Flarum in one-click on [Dome](https://app.trydome.io/signup?package=flarum):
+
+[![Deploy to Dome](https://trydome.io/button.svg)](https://app.trydome.io/signup?package=flarum)
+
 ## Contributing
 
 Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://docs.flarum.org/contributing)** to learn how you can help.
